@@ -10,7 +10,7 @@
 
 激活虚拟环境：conda activate dataminming
 
-编程IDE建议采用：vacode，也可以使用pycharm等自己熟悉的IDE
+编程IDE建议采用：Vscode，也可以使用pycharm等自己熟悉的IDE
 
 数据库：mysql
 
